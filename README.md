@@ -2,6 +2,8 @@
 
 MCP Server that exposes [SVF](https://github.com/SVF-tools/SVF) (Static Value-Flow Analysis) as a tool for Cursor AI. It can detect buffer overflows and memory safety bugs in C/C++ source code directly from the Cursor chat.
 
+![SVF-MCP in Cursor](mcp-svf.png)
+
 ## How It Works
 
 ```
